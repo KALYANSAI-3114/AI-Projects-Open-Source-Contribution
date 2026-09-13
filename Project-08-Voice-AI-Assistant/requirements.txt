@@ -1,0 +1,6 @@
+streamlit
+groq
+faster-whisper
+gTTS
+soundfile
+python-dotenv
