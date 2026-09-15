@@ -27,7 +27,7 @@ A Voice AI Assistant capable of answering user queries using speech. It records 
    ```bash
    git clone <repository-url>
    cd <repository-folder>
-   ```
+   cd Project-08-Voice-AI-Assistant
 
 2. **Create a virtual environment and activate it:**
    ```bash
